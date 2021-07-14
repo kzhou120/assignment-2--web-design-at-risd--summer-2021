@@ -87,3 +87,9 @@ ul {
   list-style: none;
 }
 
+ol {
+  line-height: 1.5;
+  margin-left: 80px;
+  text-align: justify;
+}
+
