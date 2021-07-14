@@ -69,3 +69,13 @@ img {
   border-radius: 15px;
 }
 
+blockquote {
+  background-color: #fff8d5;
+  border-radius: 15px;
+  font-family: Nunito, sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
