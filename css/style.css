@@ -10,3 +10,13 @@ p {
   margin: 30px 86px;
 }
 
+header {
+  background-color: #fff8d5;
+  font-family: Nunito, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  padding-bottom: 4px;
+  padding-top: 4px;
+  text-align: center;
+}
+
