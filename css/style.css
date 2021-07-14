@@ -20,3 +20,10 @@ header {
   text-align: center;
 }
 
+h2 {
+  font-family: Nunito, sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  margin-left: 84px;
+}
+
