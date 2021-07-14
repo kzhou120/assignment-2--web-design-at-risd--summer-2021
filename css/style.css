@@ -51,3 +51,11 @@ a {
   vertical-align: middle;
 }
 
+#image {
+  display: inline-block;
+  margin-bottom: -30px;
+  margin-right: -80px;
+  padding-top: 34px;
+  vertical-align: middle;
+}
+
