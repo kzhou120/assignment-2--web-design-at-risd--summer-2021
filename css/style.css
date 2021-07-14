@@ -93,3 +93,6 @@ ol {
   text-align: justify;
 }
 
+.position {
+  float: right;
+}
