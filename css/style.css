@@ -83,3 +83,7 @@ figcaption {
   text-align: right;
 }
 
+ul {
+  list-style: none;
+}
+
